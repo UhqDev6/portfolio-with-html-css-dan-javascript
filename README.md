@@ -12,3 +12,5 @@ Wajib menampilkan identitas diri (biodata diri) yang minimal harus berisi foto a
 Menyusun layout dengan menggunakan float atau flexbox.
 Tema yang ditampilkan bebas, kecuali tema Bandung.
 Semakin detail dan lengkap website Anda maka nilai submission bisa lebih tinggi.
+
+# Semua Kriteria Sudah Terselesaikan Dengan Baik Dan Mendapat 5 Star
