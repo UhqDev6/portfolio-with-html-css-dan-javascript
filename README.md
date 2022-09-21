@@ -1,4 +1,4 @@
-# portfolio-with-html-css-dan-javascript
+# Submission Dicoding
 Implementasi biodata diri menggunakan html css dan javascript 
 
 Preview Project Demo: https://uhqdev6.github.io/portfolio-with-html-css-dan-javascript/
